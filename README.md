@@ -96,20 +96,23 @@ the exploitation attempt did not result in a session.
 
 ### VSFTPD Exploitation
 
-<img src="evidence/ftp-anonymous-access.png" width="100%">
+<img src="evidence/exploited-ftp.png" width="100%">
 <br><br>
 
 ### Samba Exploitation
 
 <img src="evidence/Samba-command-shell-session.png" width="100%">
 <br><br>
+
 ### distcc Validation
 
-![distcc Validation](evidence/08-distcc-validation.png)
+<img src="evidence/Samba-command-shell-session.png" width="100%">
+<br><br>
 
 ### UnrealIRCd Validation
 
-![UnrealIRCd Validation](evidence/09-unrealircd-validation.png)
+<img src="evidence/Samba-command-shell-session.png" width="100%">
+<br><br>
 
 ## 📄 Full Assessment Report
 
