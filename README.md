@@ -86,7 +86,7 @@ the exploitation attempt did not result in a session.
 
 ### Directory Listing
 
-<img src="evidence/http-PHP-version,Loaded-Modules(enumeration).png" width="100%">
+<img src="evidence/Index-of-icons.png" width="100%">
 <br><br>
 
 ### Anonymous FTP
