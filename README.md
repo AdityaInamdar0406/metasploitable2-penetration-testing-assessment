@@ -75,7 +75,7 @@ the exploitation attempt did not result in a session.
 
 ### Web Enumeration
 
-<img src="evidence/http-PHP-version,Loaded-Modules(enumeration).png" width="100%">
+<img src="evidence/Web enum.png" width="100%">
 <br><br>
 
 
