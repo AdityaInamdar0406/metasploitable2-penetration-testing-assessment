@@ -106,12 +106,12 @@ the exploitation attempt did not result in a session.
 
 ### distcc Validation
 
-<img src="evidence/Samba-command-shell-session.png" width="100%">
+<img src="evidence/port-3632-vulnerable.png" width="100%">
 <br><br>
 
 ### UnrealIRCd Validation
 
-<img src="evidence/Samba-command-shell-session.png" width="100%">
+<img src="evidence/port-6667-vulnerable.png" width="100%">
 <br><br>
 
 ## 📄 Full Assessment Report
