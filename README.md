@@ -100,8 +100,8 @@ the exploitation attempt did not result in a session.
 
 ### Samba Exploitation
 
-![Samba Exploitation](evidence/07-samba-exploitation.png)
-
+<img src="evidence/Samba-command-shell-session.png" width="100%">
+<br><br>
 ### distcc Validation
 
 ![distcc Validation](evidence/08-distcc-validation.png)
