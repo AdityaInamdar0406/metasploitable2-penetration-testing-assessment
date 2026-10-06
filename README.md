@@ -91,7 +91,8 @@ the exploitation attempt did not result in a session.
 
 ### Anonymous FTP
 
-![Anonymous FTP](evidence/05-anonymous-ftp.png)
+<img src="evidence/ftp-anonymous-access.png" width="100%">
+<br><br>
 
 ### VSFTPD Exploitation
 
