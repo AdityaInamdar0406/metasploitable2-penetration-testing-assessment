@@ -81,11 +81,13 @@ the exploitation attempt did not result in a session.
 
 ### PHP Information Disclosure
 
-![PHP Information Disclosure](evidence/03-php-information-disclosure.png)
+<img src="evidence/http-PHP-version,Loaded-Modules(enumeration).png" width="100%">
+<br><br>
 
 ### Directory Listing
 
-![Directory Listing](evidence/04-directory-listing.png)
+<img src="evidence/http-PHP-version,Loaded-Modules(enumeration).png" width="100%">
+<br><br>
 
 ### Anonymous FTP
 
