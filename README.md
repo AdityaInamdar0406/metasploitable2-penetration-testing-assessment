@@ -96,7 +96,8 @@ the exploitation attempt did not result in a session.
 
 ### VSFTPD Exploitation
 
-![VSFTPD Exploitation](evidence/06-vsftpd-exploitation.png)
+<img src="evidence/ftp-anonymous-access.png" width="100%">
+<br><br>
 
 ### Samba Exploitation
 
